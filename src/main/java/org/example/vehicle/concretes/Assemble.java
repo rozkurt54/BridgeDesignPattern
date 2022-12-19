@@ -2,11 +2,11 @@ package org.example.vehicle.concretes;
 
 import org.example.vehicle.abstracts.Workshop;
 
-public class Assamble implements Workshop {
+public class Assemble implements Workshop {
 
   @Override
   public void work() {
     System.out.print(" and");
-    System.out.println( "assambled.");
+    System.out.println( " assembled.");
   }
 }

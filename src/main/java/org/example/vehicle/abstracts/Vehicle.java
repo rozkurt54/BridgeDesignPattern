@@ -1,4 +1,4 @@
-package org.example.vehicle;
+package org.example.vehicle.abstracts;
 
 public abstract class Vehicle {
 
